@@ -1,0 +1,24 @@
+.form-container {
+  position: fixed;
+  background-color: rgba(0, 0, 0, 0.7);
+  width: 500px;
+  height: 300px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.login-title {
+  text-align: center;
+  height: 80px;
+  line-height: 80px;
+  font-size: 30px;
+  color: #fff;
+}
+
+.login-form-button {
+  position: fixed;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
